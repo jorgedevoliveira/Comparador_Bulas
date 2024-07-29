@@ -5,7 +5,7 @@ import os
 import fitz  # PyMuPDF
 
 # Configurando a API Key do GEMINI AI
-genai.configure(api_key="AIzaSyCk282dAS15LSTOU7GOjsmWOkoFhmMoUlI")
+genai.configure(api_key="SUA_API_KEY_AQUI")
 
 st.title("Comparador de Bulas :page_with_curl:")
 
